@@ -1,9 +1,21 @@
-.btn-custom{
-    padding: 10px 20px;
-    background-color: black;
-    color: #fff;
-    border-radius: 20px;
-}
 a{
-    background-color: red !important;
-}
+    display: block;
+    background-color: #000;
+    margin-top: 20px;
+    color: #fff;
+    text-align: center;
+    text-decoration: none;
+    text-transform: uppercase;
+    letter-spacing: 2px;
+    border-radius: 15px;
+    padding: 10px ;
+  }
+  .full-width{
+    width: 100%;
+  }
+  .half-width{
+    width: 50%;
+  }
+  .quarter-width{
+    width: 25%;
+  }
